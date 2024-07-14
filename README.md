@@ -7,10 +7,6 @@ Welcome to the **Email Editor** project! This project is a simple yet powerful e
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
